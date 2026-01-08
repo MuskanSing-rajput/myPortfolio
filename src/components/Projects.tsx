@@ -49,40 +49,41 @@ const Projects: React.FC = () => {
       ],
       category: 'Full Stack',
       image: '🛒',
-      link: 'https://ecommercefrontend-1ik6.onrender.com/',
+      link: 'https://new-ecomm-kappa.vercel.app/',
       github: 'https://github.com/muskanrajputsingh'
     },
     {
-      title: 'Social Media Dashboard',
-      description: 'An intuitive social media dashboard for managing profiles and posting content with tweet-like interactions.',
-      technologies: ['React.js', 'Node.js', 'MongoDB', 'Express.js'],
+      title: 'Real Estate Website',
+      description: 'A modern real estate platform for listing, managing, and exploring properties with seamless user interaction.',
+      technologies: ['React.js', 'Node.js', 'PostgreSQL', 'Express.js'],
       features: [
-        'Profile management (edit, update, delete)',
-        'Text and image-based content posting',
-        'Tweet-like interactions system',
-        'Profile photo upload functionality',
-        'Real-time user engagement'
-      ],
+  'User and agent profile management',
+  'Property listing and management with images, pricing, and location',
+  'Advanced search and filter options (price, location, property type)',
+  'High-quality property image and gallery uploads',
+  'Real-time property inquiries and customer engagement'
+],
       category: 'Full Stack',
-      image: '📱',
-      link: 'https://tweetertodo.onrender.com/',
+      image: '🏠',
+      link: 'https://sthaannix-real-estate2-sand.vercel.app/',
       github: 'https://github.com/muskanrajputsingh'
     },
-    {
-      title: 'Personal Portfolio',
-      description: 'A modern and responsive portfolio website showcasing education, skills, projects, and contact information.',
-      technologies: ['HTML5', 'CSS3', 'JavaScript'],
-      features: [
-        'Responsive design across all devices',
-        'Interactive UI elements',
-        'Skills and education showcase',
-        'Project gallery with descriptions',
-        'Contact form integration'
-      ],
-      category: 'Frontend',
-      image: '💼',
-      link: 'https://myportfolio-kd45.onrender.com',
-      github: 'https://github.com/muskanrajputsingh'    }
+  {
+  title: 'Friendly Fitness Gym Website',
+  description: 'A modern and responsive fitness website designed to showcase gym services, training programs, schedules, and membership details.',
+  technologies: ['HTML5', 'CSS3', 'JavaScript', 'Sanity'],
+  features: [
+    'Responsive design across all devices',
+    'Gym programs and training plans showcase',
+    'Trainer profiles and fitness expertise display',
+    'Membership plans and pricing information',
+    'Contact and inquiry form integration'
+  ],
+  category: 'Frontend',
+  image: '🏋️‍♂️',
+  link: 'https://friendly-fitness.vercel.app/',
+  github: 'https://github.com/muskanrajputsingh'
+}
   ];
 
   const categories = ['All', 'Full Stack', 'Frontend'];

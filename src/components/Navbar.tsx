@@ -132,7 +132,7 @@ const Navbar: React.FC = () => {  const navRef = useRef<HTMLElement>(null);
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-             <a href="https://drive.google.com/file/d/1KcIflVnE2nbhcVA8Zo6aaRBvtdJewRyz/view?usp=sharing" target="_blank">Resume</a> 
+             <a href="https://drive.google.com/file/d/1N9jbweLBjWu0adtLe9sJ6RLotLsN2ndY/view?usp=drive_link" target="_blank">Resume</a> 
             </motion.button>
 
             {/* Mobile Menu Button */}

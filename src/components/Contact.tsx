@@ -366,7 +366,7 @@ const Contact: React.FC = () => {
                       onChange={handleInputChange}
                       required
                       className="w-full px-4 py-3 glass-subtle rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all duration-300"
-                      placeholder="muskan@example.com"
+                      placeholder="muskansingh7105@gmail.com"
                     />
                   </div>
                 </div>
@@ -489,7 +489,7 @@ const Contact: React.FC = () => {
         transition={{ delay: 0.5, duration: 0.8 }}
       >        <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="body-small text-gray-500">
-            © 2025 Muskan Singh. Made with ❤️ using React & Framer Motion
+            © 2026 Muskan Singh. Made with ❤️ using React & Framer Motion
           </p>
         </div>
       </motion.footer>
